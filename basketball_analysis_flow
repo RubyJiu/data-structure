@@ -1,0 +1,18 @@
+// Basketball Data Analysis Flow
+digraph {
+	rankdir=TB
+	A [label="CSV Data Input
+(basketball_info.csv)"]
+	B [label="Data Processing
+(Chunk Size: 1000)"]
+	C [label="Analysis Phase"]
+	C1 [label="Sport Advantages"]
+	C2 [label="Web Search
+(Latest Info)"]
+	C3 [label=Recommendations]
+	A -> B
+	B -> C
+	C -> C1
+	C -> C2
+	C -> C3
+}
