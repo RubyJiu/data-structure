@@ -46,3 +46,6 @@ Results are saved in customer_support_analysis.csv.
 
 ## License
 MIT License
+
+HW1 is about basketball
+HW2 is about customer support chat analysis
