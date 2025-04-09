@@ -1,0 +1,41 @@
+Issue Category,Example Messages,Resolution Provided,Empathy Shown,Clarity of Response,Follow-up Provided,Escalation Needed,Professionalism Rating,Avg Response Time (s),Outcome
+Login Issue,Can't log in | Tried resetting password,Yes,Yes,Yes,Yes,No,5,30,Satisfied
+Subscription Cancellation,Want to cancel | Here's my ID,Yes,Yes,Yes,Yes,No,5,45,Satisfied
+Product Damage,Received broken item | Need help,Yes,Yes,Yes,Yes,No,4,50,Satisfied
+Slow Internet,Internet slow | Any outage?,Yes,Yes,Yes,Yes,No,5,60,Neutral
+Payment Error,Payment declined | Invalid card,No,Yes,Yes,Yes,Yes,4,80,Unresolved
+Router Setup,New router not working,Yes,Yes,Yes,Yes,No,5,40,Satisfied
+Double Billing,Charged twice,Yes,Yes,Yes,Yes,Maybe,5,70,Satisfied
+Order Delay,Order not received,Yes,Yes,Yes,Yes,No,5,90,Satisfied
+App Crash,App crashes on launch,No,Yes,No,Yes,Yes,3,100,Unresolved
+Refund Request,Refund for unused service,Yes,Yes,Yes,Yes,No,5,35,Satisfied
+Account Locked,Account access blocked,Yes,Yes,Yes,Yes,Yes,5,45,Satisfied
+Change Email,Want to change account email,Yes,Yes,Yes,Yes,No,5,35,Satisfied
+Reset PIN,Forgot security PIN,Yes,Yes,Yes,Yes,No,5,25,Satisfied
+Promo Code Invalid,Code not working at checkout,Yes,Yes,Yes,Yes,No,4,30,Satisfied
+Download Failed,Can't download invoice,Yes,Yes,Yes,Yes,No,5,20,Satisfied
+Account Hacked,Unauthorized activity,Yes,Yes,Yes,Yes,Yes,5,60,Satisfied
+Language Change,Need to switch language,Yes,Yes,Yes,No,No,4,25,Satisfied
+Deactivate Account,Want to delete account,Yes,Yes,Yes,Yes,No,5,30,Satisfied
+Mobile App Sync,Data not syncing,Yes,Yes,Yes,Yes,Maybe,4,50,Neutral
+Incorrect Billing,Wrong charge on invoice,Yes,Yes,Yes,Yes,No,5,40,Satisfied
+Notification Issues,Not receiving alerts,Yes,Yes,Yes,Yes,No,4,35,Satisfied
+Gift Card Not Working,Code not valid,No,Yes,Yes,Yes,Yes,3,45,Unresolved
+Reset MFA,Can't pass two-factor,Yes,Yes,Yes,Yes,Yes,5,50,Satisfied
+Shipping Update,Where is my package?,Yes,Yes,Yes,Yes,No,5,40,Satisfied
+Incorrect Info,Wrong details on profile,Yes,Yes,Yes,Yes,No,5,35,Satisfied
+Live Chat Slow,Chat taking too long,No,No,No,No,No,2,120,Unresolved
+Survey Link Broken,Feedback form not working,Yes,Yes,Yes,Yes,No,4,25,Satisfied
+Unsubscribe,Emails still coming,Yes,Yes,Yes,Yes,No,5,30,Satisfied
+Wrong Product Sent,Received wrong item,Yes,Yes,Yes,Yes,No,5,40,Satisfied
+Late Refund,Refund not processed,No,Yes,Yes,Yes,Yes,4,70,Unresolved
+Missing Items,Parts missing in delivery,Yes,Yes,Yes,Yes,No,5,50,Satisfied
+Broken Link,Broken links in emails,Yes,Yes,Yes,Yes,No,5,30,Satisfied
+Profile Update Issue,Can't update address,Yes,Yes,Yes,Yes,No,5,30,Satisfied
+Misleading Info,Offer details unclear,Yes,Yes,Yes,Yes,No,4,35,Neutral
+Too Many Ads,Getting popups in app,No,Yes,Yes,No,No,3,40,Unresolved
+Can't Contact Support,Phone support not reachable,No,No,No,No,Yes,2,150,Unresolved
+App Permissions,App asking too many permissions,Yes,Yes,Yes,Yes,No,4,40,Satisfied
+Feature Request,Suggesting new feature,No,Yes,Yes,Yes,No,5,20,Neutral
+Language Barrier,Can't understand support,No,No,No,No,Yes,2,90,Unresolved
+App Compatibility,App not working on my phone,Yes,Yes,Yes,Yes,Yes,4,55,Satisfied
