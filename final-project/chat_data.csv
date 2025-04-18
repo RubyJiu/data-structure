@@ -1,0 +1,52 @@
+﻿message,timestamp,sender,issue_category,sentiment
+My internet keeps disconnecting every few minutes. It's incredibly frustrating!,2024-01-26T10:00:00Z,customer,Technical,negative
+I understand your frustration. Can you please tell me your account number?,2024-01-26T10:00:30Z,agent,Technical,neutral
+It's 1234567890.,2024-01-26T10:01:00Z,customer,Technical,neutral
+Thank you. Please allow me a moment to review your account details.,2024-01-26T10:01:30Z,agent,Technical,neutral
+Okay.,2024-01-26T10:02:00Z,customer,Technical,neutral
+My bill is much higher than I expected this month. Can you explain why?,2024-01-26T10:05:00Z,customer,Billing,negative
+Certainly. I can help with that. Could you please provide your account number?,2024-01-26T10:05:30Z,agent,Billing,neutral
+It's 9876543210.,2024-01-26T10:06:00Z,customer,Billing,neutral
+Thank you. One moment while I pull up your bill.,2024-01-26T10:06:30Z,agent,Billing,neutral
+"Great, thanks.",2024-01-26T10:07:00Z,customer,Billing,positive
+I'm having trouble logging into my account.,2024-01-26T10:10:00Z,customer,Account,negative
+I'm sorry to hear that. Let's get that sorted. Can you confirm the email address associated with your account?,2024-01-26T10:10:30Z,agent,Account,neutral
+It's myemail@example.com,2024-01-26T10:11:00Z,customer,Account,neutral
+Thank you. Please try resetting your password using the 'Forgot Password' link.,2024-01-26T10:11:30Z,agent,Account,neutral
+"I already tried that, and it's not working!",2024-01-26T10:12:00Z,customer,Account,negative
+Hello! I just wanted to say your service is great!,2024-01-26T10:15:00Z,customer,General,positive
+Thank you so much for your positive feedback! We appreciate it!,2024-01-26T10:15:30Z,agent,General,positive
+Can I upgrade my internet speed?,2024-01-26T10:20:00Z,customer,Account,neutral
+"Yes, absolutely! Let's see what options are available for your location. Account number, please?",2024-01-26T10:20:30Z,agent,Account,neutral
+5555555555,2024-01-26T10:21:00Z,customer,Account,neutral
+My modem is flashing red. What does this mean?,2024-01-26T10:25:00Z,customer,Technical,negative
+A flashing red light usually indicates a connection issue. Let's troubleshoot. Is the power cord securely plugged in?,2024-01-26T10:25:30Z,agent,Technical,neutral
+"Yes, it is.",2024-01-26T10:26:00Z,customer,Technical,neutral
+Okay. Have you tried restarting the modem?,2024-01-26T10:26:30Z,agent,Technical,neutral
+"Yes, multiple times!",2024-01-26T10:27:00Z,customer,Technical,negative
+I accidentally paid my bill twice. Can I get a refund?,2024-01-26T10:30:00Z,customer,Billing,neutral
+Of course. I can help with that. Please provide your account number.,2024-01-26T10:30:30Z,agent,Billing,neutral
+6666666666,2024-01-26T10:31:00Z,customer,Billing,neutral
+I'm moving next month. How do I transfer my service to my new address?,2024-01-26T10:35:00Z,customer,Account,neutral
+Congratulations on your move! I can help with that. Account number please?,2024-01-26T10:35:30Z,agent,Account,neutral
+7777777777,2024-01-26T10:36:00Z,customer,Account,neutral
+"I'm getting really slow speeds. I'm paying for 100mbps, but I'm only getting 10.",2024-01-26T10:40:00Z,customer,Technical,negative
+I understand. Let's run some tests. What's your account number?,2024-01-26T10:40:30Z,agent,Technical,neutral
+8888888888,2024-01-26T10:41:00Z,customer,Technical,neutral
+Why is my bill always so confusing?,2024-01-26T10:45:00Z,customer,Billing,negative
+I apologize for the confusion. I can walk you through it. Account number?,2024-01-26T10:45:30Z,agent,Billing,neutral
+9999999999,2024-01-26T10:46:00Z,customer,Billing,neutral
+I want to cancel my service.,2024-01-26T10:50:00Z,customer,Account,negative
+I'm sorry to hear you're considering leaving. Could you share your account number and the reason for cancellation?,2024-01-26T10:50:30Z,agent,Account,neutral
+1111111111,2024-01-26T10:51:00Z,customer,Account,neutral
+The internet is down again!,2024-01-26T10:55:00Z,customer,Technical,negative
+I'm very sorry to hear that. Let's check your connection. Account number?,2024-01-26T10:55:30Z,agent,Technical,neutral
+2222222222,2024-01-26T10:56:00Z,customer,Technical,neutral
+"I was charged a late fee, but I paid on time.",2024-01-26T11:00:00Z,customer,Billing,negative
+"Let me investigate that for you. Can I have your account number, please?",2024-01-26T11:00:30Z,agent,Billing,neutral
+3333333333,2024-01-26T11:01:00Z,customer,Billing,neutral
+I can't remember my password. Help!,2024-01-26T11:05:00Z,customer,Account,negative
+No problem! Please go to the 'Forgot Password' link on our website.,2024-01-26T11:05:30Z,agent,Account,neutral
+"Okay, thanks!",2024-01-26T11:06:00Z,customer,Account,positive
+I would like to add a new user to my account.,2024-01-26T11:10:00Z,customer,Account,neutral
+"Certainly, I can assist with that. Could you provide your account number?",2024-01-26T11:10:30Z,agent,Account,neutral
