@@ -1,0 +1,21 @@
+{
+  "name": "playwright-login",
+  "version": "1.0.0",
+  "description": "Playwright script to login to NTNU Moodle",
+  "main": "login.js",
+  "scripts": {
+    "login": "node login.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "login"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "playwright": "^1.32.1"
+  }
+}
