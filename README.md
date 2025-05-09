@@ -53,3 +53,4 @@ HW3 is playwright-login
 HW 4 is SumPDF
 HW 5 is Customer-service-analytics
 期末 is final-project
+期末專題影片就放在「期末專題影片」檔案裡面
